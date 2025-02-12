@@ -21,7 +21,7 @@ Here are some projects I've worked on:
    - Technologies: java,SpringBoot,MySql,Angular.
    - Link: [Project Link](https://github.com/iqbal047/Payroll_Management_System)
 
-2. **E-Commerce S**
+2. **E-Commerce System**
    - Description: This is just a e-commerce-system project where user can showcase, add, delete product and also can add product to car, used fake api for the json data, also tried to use a payment gateway called STRIPE(with the help of youtube) but unable to acheive it. :p
    - Technologies:java, SpringBoot, MySql, Angular, Angular-Material, TypeScript.
    - Link: [Project Link](https://github.com/iqbal047/e-commerce-system)
