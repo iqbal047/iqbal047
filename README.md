@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Iqbal Hossain</h1>
 <h3 align="center">A passionate Software Developer with expertise in building robust and scalable applications. 
-   I specialize in utilizing various technologies and frameworks to create efficient solutions.
-   Below is a short brief overview of my skills: </h3>
+   I specialize in utilizing various technologies and frameworks to create efficient solutions. Below is a short brief overview of my skills: </h3>
 
 ## Skills
 - **Programming Languages:** Java
@@ -28,9 +27,8 @@ Here are some projects I've worked on:
    - Description: This is a Point of Sale (POS) system that allows users/admin to manage products, categories, suppliers, and companies. It also enables the generation of invoices and provides stock reports.
    - Technologies: java,SpringBoot,MySql,Docker,Angular.
    - Link: [Project Link](https://github.com/iqbal047/Point_of_Sale)
-
-- 📫 How to reach me **mdiqbalidb@gmail.com**
-
+     
+📫 How to reach me **mdiqbalidb@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-iqbal-hossain-2a15b02a1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/md-iqbal-hossain-2a15b02a1" height="30" width="40" /></a>
