@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Iqbal Hossain</h1>
-<h3 align="center">A passionate Software Developer with expertise in building robust and scalable applications. I specialize in utilizing various technologies and frameworks to create efficient solutions.
-Below is a short brief overview of my skills: </h3>
+<h3 align="center">A passionate Software Developer with expertise in building robust and scalable applications. 
+   I specialize in utilizing various technologies and frameworks to create efficient solutions.
+   Below is a short brief overview of my skills: </h3>
 
 ## Skills
 - **Programming Languages:** Java
