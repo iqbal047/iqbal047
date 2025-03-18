@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Software Developer with expertise in building robust and scalable applications. 
    I specialize in utilizing various technologies and frameworks to create efficient solutions. Below is a short brief overview of my skills: </h3>
 
+   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Skills
 - **Programming Languages:** Java
 - **Frameworks:** Spring, Spring Boot
